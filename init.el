@@ -1,3 +1,5 @@
+;;;;
+
 ;;;; -*- mode: lisp-interaction; syntax: elisp; coding: iso-2022-7bit -*-
 
 ;;; 日本語環境設定
